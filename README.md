@@ -1,9 +1,5 @@
-Hi, my name is Michał Kozłowski.
-I'm a CS student of WUST in Poland.
 
-I'm mainly focusing on learning and understanding variety of different algorithms with C and C++
-
-Contant:
+Contact:
 michal.w.kozlowski@gmail.com
 
 
